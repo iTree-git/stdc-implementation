@@ -1,5 +1,5 @@
 /*
- * Copyright(c) 2019-present by Liang Yu 
+ * Copyright(c) 2019-present by Liang Yu
  */
 
 #ifndef ITREE_TUPLE_HPP_
