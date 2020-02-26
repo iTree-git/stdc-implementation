@@ -3,7 +3,7 @@ cmake_minimum_required(VERSION 3.2)
 find_package(Threads REQUIRED)
 
 include_directories(${PROJECT_SOURCE_DIR}/include)
-add_compile_options(-std=c++14)
+add_compile_options(-std=c++14 -g)
 
 file(GLOB unittest_list unittest/*cpp)
 foreach(f ${unittest_list})
